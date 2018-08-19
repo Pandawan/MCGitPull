@@ -1,0 +1,7 @@
+name: MCGitPull
+version: 1.0
+main: io.github.pandawan.mcgitpull.MCGitPull
+api-version: 1.13
+description: Pulls latest changes from Git Repository into data packs
+author: Pandawan
+website: https://github.com/PandawanFr/MCGitPull
